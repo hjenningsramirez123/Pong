@@ -6,6 +6,7 @@ public class BallOffScreen : MonoBehaviour
 {
 
     public GameObject newBall;
+    public GameObject score;
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +19,8 @@ public class BallOffScreen : MonoBehaviour
     {
         if(Mathf.Abs(transform.position.x) > 10)
         {
-            Instantiate(newBall, new Vector3(0, 0, 0), Quaternion.identity);
+            GameObject ball = Instantiate(newBall, new Vector3(0, 0, 0), Quaternion.identity);
+            ball.name = "Ball";
             Destroy(gameObject);
         }
     }
