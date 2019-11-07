@@ -13,13 +13,14 @@ public class BallInitMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        myRB = GetComponent<Rigidbody2D>();
         StartCoroutine("Initialize");
     }
 
     IEnumerator Initialize()
     {
         yield return new WaitForSeconds(Delay);
-        myRB = GetComponent<Rigidbody2D>();
+        
         float dir = Random.Range(Mathf.PI / -4, Mathf.PI / 4);
         if (Random.Range(0, 2) == 1)
         {
