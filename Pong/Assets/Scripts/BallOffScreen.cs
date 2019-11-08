@@ -49,6 +49,10 @@ public class BallOffScreen : MonoBehaviour
             transform.position = new Vector3(0, 0, 0);
             myRB.velocity = new Vector3(0, 0, 0);
             init.StartCoroutine("Initialize");
+            if(winner != null)
+            {
+
+            }
         }
     }
 }
