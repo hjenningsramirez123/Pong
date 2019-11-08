@@ -36,7 +36,7 @@ public class BallOffScreen : MonoBehaviour
                 TextLeft.text = scoreLeft.ToString();
                 if(scoreLeft == 11)
                 {
-                    Winner = "Left";
+                    Winner = "left";
                 }
             }
             else
@@ -45,7 +45,7 @@ public class BallOffScreen : MonoBehaviour
                 TextRight.text = scoreRight.ToString();
                 if(scoreRight == 11)
                 {
-                    Winner = "Right";
+                    Winner = "right";
                 }
             }
             if(Winner == null)
