@@ -13,6 +13,7 @@ public class PlayGame : MonoBehaviour
 
     public void OpenGame()
     {
+        // Loads scene when button is pushed
         SceneManager.LoadScene("Game");
     }
 
