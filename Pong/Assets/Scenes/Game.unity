@@ -439,7 +439,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 0
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c0d5292a4db17fb45b470edc927d6158, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
@@ -901,6 +901,11 @@ PrefabInstance:
       propertyPath: Speed
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3630911753742086819, guid: 10bdd961cae61804c94936db0e3134de,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: c0d5292a4db17fb45b470edc927d6158, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10bdd961cae61804c94936db0e3134de, type: 3}
 --- !u!1001 &2007877744
@@ -1185,5 +1190,10 @@ PrefabInstance:
       propertyPath: Speed
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3630911753742086819, guid: 10bdd961cae61804c94936db0e3134de,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: c0d5292a4db17fb45b470edc927d6158, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10bdd961cae61804c94936db0e3134de, type: 3}

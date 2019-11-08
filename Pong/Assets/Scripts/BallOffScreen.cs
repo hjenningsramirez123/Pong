@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class BallOffScreen : MonoBehaviour
 {
     public Text TextLeft;
     public Text TextRight;
+
+    public static string Winner = null;
 
     private Rigidbody2D myRB;
     private BallInitMove init;
@@ -27,14 +30,13 @@ public class BallOffScreen : MonoBehaviour
     {
         if(Mathf.Abs(transform.position.x) > 10)
         {
-            string winner = null;
             if (transform.position.x > 0)
             {
                 scoreLeft++;
                 TextLeft.text = scoreLeft.ToString();
                 if(scoreLeft == 11)
                 {
-                    winner = "Left";
+                    Winner = "Left";
                 }
             }
             else
@@ -43,15 +45,17 @@ public class BallOffScreen : MonoBehaviour
                 TextRight.text = scoreRight.ToString();
                 if(scoreRight == 11)
                 {
-                    winner = "Right";
+                    Winner = "Right";
                 }
             }
-            transform.position = new Vector3(0, 0, 0);
-            myRB.velocity = new Vector3(0, 0, 0);
-            init.StartCoroutine("Initialize");
-            if(winner != null)
+            if(Winner == null)
             {
-
+                transform.position = new Vector3(0, 0, 0);
+                myRB.velocity = new Vector3(0, 0, 0);
+                init.StartCoroutine("Initialize");
+            } else
+            {
+                SceneManager.LoadScene("Win");
             }
         }
     }
