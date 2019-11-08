@@ -27,15 +27,24 @@ public class BallOffScreen : MonoBehaviour
     {
         if(Mathf.Abs(transform.position.x) > 10)
         {
+            string winner = null;
             if (transform.position.x > 0)
             {
                 scoreLeft++;
                 TextLeft.text = scoreLeft.ToString();
+                if(scoreLeft == 11)
+                {
+                    winner = "Left";
+                }
             }
             else
             {
                 scoreRight++;
                 TextRight.text = scoreRight.ToString();
+                if(scoreRight == 11)
+                {
+                    winner = "Right";
+                }
             }
             transform.position = new Vector3(0, 0, 0);
             myRB.velocity = new Vector3(0, 0, 0);
