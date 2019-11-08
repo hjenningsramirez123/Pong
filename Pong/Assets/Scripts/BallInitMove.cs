@@ -14,13 +14,15 @@ public class BallInitMove : MonoBehaviour
     void Start()
     {
         myRB = GetComponent<Rigidbody2D>();
+        // Make the ball start moving after Delay
         StartCoroutine("Initialize");
     }
 
     IEnumerator Initialize()
     {
+        //Wait Delay seconds
         yield return new WaitForSeconds(Delay);
-        
+        // Give the ball a random motion vector that doesn't point too far up or down and has a length Speed
         float dir = Random.Range(Mathf.PI / -4, Mathf.PI / 4);
         if (Random.Range(0, 2) == 1)
         {
