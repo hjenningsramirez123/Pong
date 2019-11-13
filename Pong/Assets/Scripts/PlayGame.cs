@@ -17,6 +17,12 @@ public class PlayGame : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void OpenGameNew()
+    {
+        // Loads scene when button is pushed
+        SceneManager.LoadScene("GameNew");
+    }
+
     // Update is called once per frame
     void Update()
     {
