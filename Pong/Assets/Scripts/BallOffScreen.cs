@@ -8,8 +8,11 @@ public class BallOffScreen : MonoBehaviour
 {
     public Text TextLeft;
     public Text TextRight;
+    public GameObject cam;
 
     public static string Winner = null;
+
+    private CameraShake shake;
 
     private Rigidbody2D myRB;
     private BallInitMove init;
@@ -23,6 +26,7 @@ public class BallOffScreen : MonoBehaviour
         myRB = GetComponent<Rigidbody2D>();
         scoreLeft = 0;
         scoreRight = 0;
+        shake = cam.GetComponent<CameraShake>();
     }
 
     // Update is called once per frame
@@ -51,10 +55,12 @@ public class BallOffScreen : MonoBehaviour
                     Winner = "right";
                 }
             }
+            // Make the camera shake
+            shake.Reset();
             if(Winner == null)
             {
                 // Reset the ball's position and make it idle for Delay before moving
-                transform.position = new Vector3(0, 0, 0);
+                transform.position = new Vector3(0, -100, 0);
                 myRB.velocity = new Vector3(0, 0, 0);
                 init.StartCoroutine("Initialize");
             } else
