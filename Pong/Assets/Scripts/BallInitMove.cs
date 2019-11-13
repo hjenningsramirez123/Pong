@@ -22,6 +22,7 @@ public class BallInitMove : MonoBehaviour
     {
         //Wait Delay seconds
         yield return new WaitForSeconds(Delay);
+        transform.position = new Vector3(0, 0, 0);
         // Give the ball a random motion vector that doesn't point too far up or down and has a length Speed
         float dir = Random.Range(Mathf.PI / -4, Mathf.PI / 4);
         if (Random.Range(0, 2) == 1)
