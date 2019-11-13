@@ -14,7 +14,7 @@ public class CameraShake : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        time = Seconds;
+        time = Seconds + Offset;
     }
 
     public void Reset()
