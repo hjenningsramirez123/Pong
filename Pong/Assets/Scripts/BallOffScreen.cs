@@ -9,6 +9,7 @@ public class BallOffScreen : MonoBehaviour
     public Text TextLeft;
     public Text TextRight;
     public GameObject cam;
+    public GameObject BallFrag;
 
     public static string Winner = null;
 
@@ -27,6 +28,20 @@ public class BallOffScreen : MonoBehaviour
         scoreLeft = 0;
         scoreRight = 0;
         shake = cam.GetComponent<CameraShake>();
+    }
+
+    // Spawn the ball fragments when the ball goes of the screen
+    void SpawnFragments()
+    {
+        float mass = 1;
+        while(mass > 0)
+        {
+            mass -= 0.1f;
+            GameObject cur = Instantiate(BallFrag, gameObject.transform.position, Quaternion.identity);
+            Rigidbody2D rb = cur.GetComponent<Rigidbody2D>();
+            rb.AddForce(Random.insideUnitCircle * 10000);
+            rb.AddTorque(Random.Range(-1f, 1f));
+        }
     }
 
     // Update is called once per frame
@@ -57,6 +72,8 @@ public class BallOffScreen : MonoBehaviour
             }
             // Make the camera shake
             shake.Reset();
+            // Spawn the fragments
+            SpawnFragments();
             if(Winner == null)
             {
                 // Reset the ball's position and make it idle for Delay before moving
