@@ -23,6 +23,12 @@ public class PlayGame : MonoBehaviour
         SceneManager.LoadScene("GameNew");
     }
 
+    public void OpenTitle()
+    {
+        //Load Main Menu
+        SceneManager.LoadScene("TitleScreen");
+    }
+
     // Update is called once per frame
     void Update()
     {

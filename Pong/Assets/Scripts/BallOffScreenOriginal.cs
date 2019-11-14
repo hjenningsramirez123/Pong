@@ -10,20 +10,20 @@ public class BallOffScreenOriginal : MonoBehaviour
     public Text TextRight;
     public GameObject cam;
 
-    public static string Winner = null;
+    public static string WinnerOriginal = null;
 
     private Rigidbody2D myRB;
     private BallInitMove init;
 
-    int scoreLeft, scoreRight;
+    int scoreLeftOriginal, scoreRightOriginal;
 
     // Start is called before the first frame update
     void Start()
     {
         init = GetComponent<BallInitMove>();
         myRB = GetComponent<Rigidbody2D>();
-        scoreLeft = 0;
-        scoreRight = 0;
+        scoreLeftOriginal = 0;
+        scoreRightOriginal = 0;
     }
 
     // Update is called once per frame
@@ -35,25 +35,24 @@ public class BallOffScreenOriginal : MonoBehaviour
             // Increment score for the correct player
             if (transform.position.x > 0)
             {
-                scoreLeft++;
-                TextLeft.text = scoreLeft.ToString();
+                scoreLeftOriginal++;
+                TextLeft.text = scoreLeftOriginal.ToString();
                 // Check if that player has won
-                if(scoreLeft == 11)
+                if(scoreLeftOriginal == 11)
                 {
-                    Winner = "left";
+                    WinnerOriginal = "left";
                 }
             }
             else
             {
-                scoreRight++;
-                TextRight.text = scoreRight.ToString();
-                if(scoreRight == 11)
+                scoreRightOriginal++;
+                TextRight.text = scoreRightOriginal.ToString();
+                if(scoreRightOriginal == 11)
                 {
-                    Winner = "right";
+                    WinnerOriginal = "right";
                 }
             }
-            // Make the camera shake
-            if(Winner == null)
+            if(WinnerOriginal == null)
             {
                 // Reset the ball's position and make it idle for Delay before moving
                 transform.position = new Vector3(0, -100, 0);
@@ -63,6 +62,8 @@ public class BallOffScreenOriginal : MonoBehaviour
             {
                 // If there has been a winner determined, switch to the Win scene
                 SceneManager.LoadScene("Win");
+                scoreLeftOriginal = 0;
+                scoreRightOriginal = 0;
             }
         }
     }
