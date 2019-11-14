@@ -66,7 +66,7 @@ public class BallOffScreen : MonoBehaviour
             } else
             {
                 // If there has been a winner determined, switch to the Win scene
-                SceneManager.LoadScene("Win");
+                SceneManager.LoadScene("WinNew");
             }
         }
     }
