@@ -13,8 +13,7 @@ public class ExitGame : MonoBehaviour
     public void CloseGame()
     {
         //Closes game when pushed
-        UnityEngine.UI.Button.
-        Quit.gameObject.onClick.AddListener(Application.Quit);
+        Application.Quit();
     }
 
     // Update is called once per frame
