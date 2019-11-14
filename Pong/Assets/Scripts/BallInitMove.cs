@@ -5,8 +5,8 @@ using UnityEngine;
 public class BallInitMove : MonoBehaviour
 {
 
-    public float Speed;
-    public float Delay;
+    public float Speed = 350;
+    public float Delay = 1;
 
     private Rigidbody2D myRB;
     
