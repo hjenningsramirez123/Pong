@@ -1,7 +1,241 @@
 fileFormatVersion: 2
 guid: d95fc5a663b68ba448f00f3d9bf4a7fc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3713573425323848048
+    second: Gem ball explosion Spritesheet_0
+  - first:
+      213: 6383234914462471697
+    second: Gem ball explosion Spritesheet_1
+  - first:
+      213: 6806013231578416751
+    second: Gem ball explosion Spritesheet_2
+  - first:
+      213: 4476851198486386331
+    second: Gem ball explosion Spritesheet_3
+  - first:
+      213: 6516506102436277329
+    second: Gem ball explosion Spritesheet_4
+  - first:
+      213: 8355477930883630504
+    second: Gem ball explosion Spritesheet_5
+  - first:
+      213: 8166102326755745458
+    second: Gem ball explosion Spritesheet_6
+  - first:
+      213: -545984623039440900
+    second: Gem ball explosion Spritesheet_7
+  - first:
+      213: 5358581767051480062
+    second: Gem ball explosion Spritesheet_8
+  - first:
+      213: -5511224416205816992
+    second: Gem ball explosion Spritesheet_9
+  - first:
+      213: -3388865474006201953
+    second: Gem ball explosion Spritesheet_10
+  - first:
+      213: -2341585677098058464
+    second: Gem ball explosion Spritesheet_11
+  - first:
+      213: 6239789374271608704
+    second: Gem ball explosion Spritesheet_12
+  - first:
+      213: 977729100348230097
+    second: Gem ball explosion Spritesheet_13
+  - first:
+      213: 8820949089246032078
+    second: Gem ball explosion Spritesheet_14
+  - first:
+      213: -4948048289040215567
+    second: Gem ball explosion Spritesheet_15
+  - first:
+      213: 4306594395335359356
+    second: Gem ball explosion Spritesheet_16
+  - first:
+      213: -3568714657081358489
+    second: Gem ball explosion Spritesheet_17
+  - first:
+      213: 7819691815965050119
+    second: Gem ball explosion Spritesheet_18
+  - first:
+      213: 3150309565839944691
+    second: Gem ball explosion Spritesheet_19
+  - first:
+      213: -3379272803487903739
+    second: Gem ball explosion Spritesheet_20
+  - first:
+      213: -2260750430728057948
+    second: Gem ball explosion Spritesheet_21
+  - first:
+      213: 493335274819842191
+    second: Gem ball explosion Spritesheet_22
+  - first:
+      213: -3852216006204823557
+    second: Gem ball explosion Spritesheet_23
+  - first:
+      213: -226217593329519371
+    second: Gem ball explosion Spritesheet_24
+  - first:
+      213: 1363810221281766194
+    second: Gem ball explosion Spritesheet_25
+  - first:
+      213: 5607909901512493313
+    second: Gem ball explosion Spritesheet_26
+  - first:
+      213: -6862001616999998881
+    second: Gem ball explosion Spritesheet_27
+  - first:
+      213: -6376712883913819496
+    second: Gem ball explosion Spritesheet_28
+  - first:
+      213: 7563457568198397239
+    second: Gem ball explosion Spritesheet_29
+  - first:
+      213: -6513581316443992174
+    second: Gem ball explosion Spritesheet_30
+  - first:
+      213: -4115777825069353711
+    second: Gem ball explosion Spritesheet_31
+  - first:
+      213: 732686938855161427
+    second: Gem ball explosion Spritesheet_32
+  - first:
+      213: 2612897207393965170
+    second: Gem ball explosion Spritesheet_33
+  - first:
+      213: 8284892624717197762
+    second: Gem ball explosion Spritesheet_34
+  - first:
+      213: 3607887570680941541
+    second: Gem ball explosion Spritesheet_35
+  - first:
+      213: -5661674350449878647
+    second: Gem ball explosion Spritesheet_36
+  - first:
+      213: -6464512986570439462
+    second: Gem ball explosion Spritesheet_37
+  - first:
+      213: 6125130213325538261
+    second: Gem ball explosion Spritesheet_38
+  - first:
+      213: -1440461207169694034
+    second: Gem ball explosion Spritesheet_39
+  - first:
+      213: 1154829846994826769
+    second: Gem ball explosion Spritesheet_40
+  - first:
+      213: -8823191368149963199
+    second: Gem ball explosion Spritesheet_41
+  - first:
+      213: 7057248776719127755
+    second: Gem ball explosion Spritesheet_42
+  - first:
+      213: -6186498697896103782
+    second: Gem ball explosion Spritesheet_43
+  - first:
+      213: 6837986692320260310
+    second: Gem ball explosion Spritesheet_44
+  - first:
+      213: -4909409465437805771
+    second: Gem ball explosion Spritesheet_45
+  - first:
+      213: -2913224092065004824
+    second: Gem ball explosion Spritesheet_46
+  - first:
+      213: 5567832029842990242
+    second: Gem ball explosion Spritesheet_47
+  - first:
+      213: 5534581967389098794
+    second: Gem ball explosion Spritesheet_48
+  - first:
+      213: -680039050622460240
+    second: Gem ball explosion Spritesheet_49
+  - first:
+      213: -9034639109735352500
+    second: Gem ball explosion Spritesheet_50
+  - first:
+      213: 7950530017124352347
+    second: Gem ball explosion Spritesheet_51
+  - first:
+      213: -4514625048801349031
+    second: Gem ball explosion Spritesheet_52
+  - first:
+      213: 6419958855321090249
+    second: Gem ball explosion Spritesheet_53
+  - first:
+      213: -4797908845048212025
+    second: Gem ball explosion Spritesheet_54
+  - first:
+      213: 3125430902994129966
+    second: Gem ball explosion Spritesheet_55
+  - first:
+      213: 4801998595978867019
+    second: Gem ball explosion Spritesheet_56
+  - first:
+      213: -6171984135994401215
+    second: Gem ball explosion Spritesheet_57
+  - first:
+      213: -6536156020511978051
+    second: Gem ball explosion Spritesheet_58
+  - first:
+      213: 7304158687567040539
+    second: Gem ball explosion Spritesheet_59
+  - first:
+      213: -4164251267277262239
+    second: Gem ball explosion Spritesheet_60
+  - first:
+      213: -6914655197062052120
+    second: Gem ball explosion Spritesheet_61
+  - first:
+      213: 333564337139864359
+    second: Gem ball explosion Spritesheet_62
+  - first:
+      213: 246733799574065522
+    second: Gem ball explosion Spritesheet_63
+  - first:
+      213: -3468451019154503174
+    second: Gem ball explosion Spritesheet_64
+  - first:
+      213: 4693598128867485478
+    second: Gem ball explosion Spritesheet_65
+  - first:
+      213: 7710195577335753990
+    second: Gem ball explosion Spritesheet_66
+  - first:
+      213: 947964958697755460
+    second: Gem ball explosion Spritesheet_67
+  - first:
+      213: -4493236054486986945
+    second: Gem ball explosion Spritesheet_68
+  - first:
+      213: -5382146283621416014
+    second: Gem ball explosion Spritesheet_69
+  - first:
+      213: 6537653859647334500
+    second: Gem ball explosion Spritesheet_70
+  - first:
+      213: -3665301128141233392
+    second: Gem ball explosion Spritesheet_71
+  - first:
+      213: 1232725367418562751
+    second: Gem ball explosion Spritesheet_72
+  - first:
+      213: 442551869132367877
+    second: Gem ball explosion Spritesheet_73
+  - first:
+      213: -1525523227723521726
+    second: Gem ball explosion Spritesheet_74
+  - first:
+      213: -7368894404447710393
+    second: Gem ball explosion Spritesheet_75
+  - first:
+      213: 8000601139134031266
+    second: Gem ball explosion Spritesheet_76
+  - first:
+      213: 4862752485016493390
+    second: Gem ball explosion Spritesheet_77
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -96,7 +330,1645 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afd6c7b4b2dcf42bde8ceee6e0f112
+      internalID: -3713573425323848048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ba82067636c24988e116dbeeec5bd
+      internalID: 6383234914462471697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e695bda4adf642a0e49e05649e67a
+      internalID: 6806013231578416751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1cbd6bf0cfcd348ac25306a96bdc58
+      internalID: 4476851198486386331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f3baca5af7964383dc638ccadba2b
+      internalID: 6516506102436277329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7130cacfa430d64394b341289b2c408
+      internalID: 8355477930883630504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace335d4fc82544cb88bea362697de2
+      internalID: 8166102326755745458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d89a6bb4bc295642be7afa6ab396ca5
+      internalID: -545984623039440900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d66ab3467b5344b6e79e4a54b80f4
+      internalID: 5358581767051480062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 213
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6eca68277b43b46977e7aaba8914e0
+      internalID: -5511224416205816992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c138a4f9a6154541a319f73646cb27b
+      internalID: -3388865474006201953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 144
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81c4f528545db84aa270de6b52b6533
+      internalID: -2341585677098058464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f8d5d68338754691b240354b70a11
+      internalID: 6239789374271608704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 147
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178bbb5b49d8d34bb719204d1556338
+      internalID: 977729100348230097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 143
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084330f49f5704041bd0016b93df9100
+      internalID: 8820949089246032078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612af3177f39a54e9212b885133c032
+      internalID: -4948048289040215567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 123
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224da99b5bc7be47a5563ee3000c93b
+      internalID: 4306594395335359356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 121
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6352c2c5b97aa4181437c1f64fde41
+      internalID: -3568714657081358489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 124
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6c2dd216b8dd4ca03b39b03318292
+      internalID: 7819691815965050119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 106
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47157fc71ed917d4595235f6ea84086d
+      internalID: 3150309565839944691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 123
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c77211e5de6b44b948709f8945a45
+      internalID: -3379272803487903739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 117
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88843d651027b04ea29551817e264cc
+      internalID: -2260750430728057948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 118
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf1c539b41eee438b6197a34af4f4c
+      internalID: 493335274819842191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 119
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc8b5f6cb47fe4588ca3d20f4bf325
+      internalID: -3852216006204823557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c350c44bff8254eb71b6c88edace4f
+      internalID: -226217593329519371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b423d17eed72843aa8562f939c9950
+      internalID: 1363810221281766194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce626d0c761d51346a92fc4fad2a4cc4
+      internalID: 5607909901512493313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c551c5051d3bdb41a5d6fb65882f040
+      internalID: -6862001616999998881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 114
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ab7d56d20544499970677a78286e8
+      internalID: -6376712883913819496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 113
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e29317f68980194e8fc591679b7a3bf
+      internalID: 7563457568198397239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2347856b3c654080511f07cadcc2b
+      internalID: -6513581316443992174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 107
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f38bdf99f0614f8c97baf25ca2f63
+      internalID: -4115777825069353711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fb7415f5748cb45adb8a5e21ccc097
+      internalID: 732686938855161427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 107
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582e5dfd83210546b7bb1053a2ec7dd
+      internalID: 2612897207393965170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799bf778b5dd82048b3dfa2d9692d663
+      internalID: 8284892624717197762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 104
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62386babc6b3e944a86a6dd4f4ec606
+      internalID: 3607887570680941541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c58859ae663b94d9d55781b7b71f3b
+      internalID: -5661674350449878647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35086f8d291a55a44a838c6986bff7c2
+      internalID: -6464512986570439462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654018a075267194b817df22713c1516
+      internalID: 6125130213325538261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21527352237ee164b92e985791583ea9
+      internalID: -1440461207169694034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbead39d56efb64eb386c09a4c7a729
+      internalID: 1154829846994826769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 94
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748a5d8ba68f144f8af46c70cad4590
+      internalID: -8823191368149963199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 98
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d2dc2d65bd964e9bef130c0eb902e
+      internalID: 7057248776719127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 93
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24adf6dcecd828642ac7583781154f7e
+      internalID: -6186498697896103782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1418492d7cfa640b3e9ddbd507ee64
+      internalID: 6837986692320260310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e3ad0c0afb9b45af42625662070a4
+      internalID: -4909409465437805771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 93
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce992a82951ecc74781ae729448be654
+      internalID: -2913224092065004824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bdbc074f2577e4db0e7a615cb48e1d
+      internalID: 5567832029842990242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 85
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e2b9006fa13f40bf41979fd54b17f
+      internalID: 5534581967389098794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef50d7f6cd57648a483c004670e999
+      internalID: -680039050622460240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71f7734f2a62c4daffca392a5eccf3
+      internalID: -9034639109735352500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 86
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc64e8bf86441a4eb65aaefa2dfd6b6
+      internalID: 7950530017124352347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0b686843db134ca738c752ec680b5
+      internalID: -4514625048801349031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 87
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dfd7e0a37ee5b40b10700e9be4b9b2
+      internalID: 6419958855321090249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 77
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d2ba16ca11e3a47abf2343f1a1dbd9
+      internalID: -4797908845048212025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee63a83bc420d04a9695e49fa72f275
+      internalID: 3125430902994129966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 81
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b125cbfb320b7649ad13fa73493981b
+      internalID: 4801998595978867019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 84
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa8502783db3c42a7b0bcbccf241db
+      internalID: -6171984135994401215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d43d70355e902c40b41c5d8f8cd8fe4
+      internalID: -6536156020511978051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a493e2ba57c841b85d9f73b2859a9
+      internalID: 7304158687567040539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f83dc7cb82cb649b46a5da7482d475
+      internalID: -4164251267277262239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fa3d492d1569478bbda15210f9224
+      internalID: -6914655197062052120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 78
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c481709e94769047a46e97691a326d1
+      internalID: 333564337139864359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 74
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b39627e487964bbc20de9b2a52235
+      internalID: 246733799574065522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758eb71cf0e6c8499f2ad62eb877751
+      internalID: -3468451019154503174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 75
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e2c455d9cffb49a6ab7bd9f20b9eb
+      internalID: 4693598128867485478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 78
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35f5ac622c90049989337704b9264e
+      internalID: 7710195577335753990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9974674dc04d5348aa5f95c5d25342f
+      internalID: 947964958697755460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10355656a9bae5a4f93cb319d8d7cf11
+      internalID: -4493236054486986945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510d55da73027e4ea191c6a404c89d1
+      internalID: -5382146283621416014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c26afc33714d84ab71fe9837823166
+      internalID: 6537653859647334500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f707dd23d6ed746aa027fcc19b2cb2
+      internalID: -3665301128141233392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03553a934efce904ab78315f543d856c
+      internalID: 1232725367418562751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f77f44f7248645bf06efc9b4a862c
+      internalID: 442551869132367877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49944d5d07b39a04aa3c06ac2bddedf1
+      internalID: -1525523227723521726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee470794c5826cc41930b9132da76b71
+      internalID: -7368894404447710393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 64
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea512a16bd09d914eb98b60edc2eed8a
+      internalID: 8000601139134031266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gem ball explosion Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387995958300d048b49b53752284a4c
+      internalID: 4862752485016493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
