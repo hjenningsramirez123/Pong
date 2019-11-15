@@ -9,7 +9,6 @@ public class BallOffScreen : MonoBehaviour
     public Text TextLeft;
     public Text TextRight;
     public GameObject cam;
-    public GameObject BallFrag;
 
     public static string Winner = null;
 
@@ -17,6 +16,8 @@ public class BallOffScreen : MonoBehaviour
 
     private Rigidbody2D myRB;
     private BallInitMove init;
+
+    private AudioSource audio;
 
     int scoreLeft, scoreRight;
 
@@ -28,6 +29,7 @@ public class BallOffScreen : MonoBehaviour
         scoreLeft = 0;
         scoreRight = 0;
         shake = cam.GetComponent<CameraShake>();
+        audio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -56,6 +58,8 @@ public class BallOffScreen : MonoBehaviour
                     Winner = "right";
                 }
             }
+            // Play the ball death sound
+            audio.Play(0);
             // Make the camera shake
             shake.Reset();
             if(Winner == null)
