@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4432635966991671629}
   - component: {fileID: -3561907707039201198}
   - component: {fileID: 3588844655116804302}
+  - component: {fileID: 8048505772168023946}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -222,3 +223,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &8048505772168023946
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690595292928579339}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1a431d7efb4a24c4caec46cfd65e4781, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
