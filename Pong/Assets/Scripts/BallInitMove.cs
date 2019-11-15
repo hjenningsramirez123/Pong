@@ -8,11 +8,14 @@ public class BallInitMove : MonoBehaviour
     public float Speed = 350;
     public float Delay = 1;
 
+    private float speedMul;
+
     private Rigidbody2D myRB;
     
     // Start is called before the first frame update
     void Start()
     {
+        speedMul = 1;
         myRB = GetComponent<Rigidbody2D>();
         // Make the ball start moving after Delay
         StartCoroutine("Initialize");
@@ -34,7 +37,13 @@ public class BallInitMove : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+        // Make the ball speed up over time
+        if (speedMul < 3)
+        {
+            speedMul += Time.deltaTime / 10;
+        }
+        myRB.velocity = myRB.velocity.normalized * Speed * speedMul * Time.deltaTime;
     }
 }
