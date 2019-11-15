@@ -30,20 +30,6 @@ public class BallOffScreen : MonoBehaviour
         shake = cam.GetComponent<CameraShake>();
     }
 
-    // Spawn the ball fragments when the ball goes of the screen
-    void SpawnFragments()
-    {
-        float mass = 1;
-        while(mass > 0)
-        {
-            mass -= 0.1f;
-            GameObject cur = Instantiate(BallFrag, gameObject.transform.position, Quaternion.identity);
-            Rigidbody2D rb = cur.GetComponent<Rigidbody2D>();
-            rb.AddForce(Random.insideUnitCircle * 10000);
-            rb.AddTorque(Random.Range(-1f, 1f));
-        }
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -72,8 +58,6 @@ public class BallOffScreen : MonoBehaviour
             }
             // Make the camera shake
             shake.Reset();
-            // Spawn the fragments
-            SpawnFragments();
             if(Winner == null)
             {
                 // Reset the ball's position and make it idle for Delay before moving
